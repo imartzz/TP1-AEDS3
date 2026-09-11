@@ -5,12 +5,12 @@ Disciplina: Algoritmos e Estruturas de Dados III — PUC Minas.
 
 ## Grupo
 
-| Nome | GitHub |
-|---|---|
-| Arthur De Pinho De Almeida | imartzz|
-| (Membro 2) | |
-| (Membro 3) | |
-| (Membro 4) | |
+| Nome                       | GitHub  |
+|----------------------------|---------|
+| Arthur De Pinho De Almeida | imartzz |
+| Rafael Cardoso Machado     | icm3333 |
+| (Membro 3)                 |         |
+| (Membro 4)                 |         |
 
 ---
 
