@@ -10,8 +10,8 @@ Sistema de perguntas e respostas inspirado no StackOverflow, desenvolvido como p
 |----------------------------|-----------|
 | Arthur De Pinho De Almeida | imartzz   |
 | Rafael Cardoso Machado     | icm3333   |
-| —                          | —         |
-| —                          | —         |
+| Pedro Henrique Debs Rabelo | —         |
+| Artur Otoni Senna Luz      | —         |
 
 ---
 
