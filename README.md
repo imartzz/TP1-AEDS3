@@ -15,6 +15,12 @@ Sistema de perguntas e respostas inspirado no StackOverflow, desenvolvido como p
 
 ---
 
+## Vídeo de demonstração
+
+[Assista à demonstração do sistema no YouTube](https://youtu.be/vOq19xOvkUg)
+
+---
+
 ## Sobre o sistema
 
 O **Ajuda Aí 1.0** é um sistema de terminal que permite o cadastro de usuários e a gestão de perguntas. Cada usuário cria sua conta com email, senha e uma pergunta de recuperação. Após o login, o usuário pode criar, listar, alterar e arquivar suas próprias perguntas.
